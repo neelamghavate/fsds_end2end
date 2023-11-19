@@ -4,6 +4,7 @@ numpy
 ipykernel
 seaborn
 matplotlib
+flask
 
 
 -e .
