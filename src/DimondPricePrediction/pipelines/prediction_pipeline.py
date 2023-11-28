@@ -1,40 +1,36 @@
 import os
 import sys
 import pandas as pd
-from src.DimondPricePrediction.logger import logging
 from src.DimondPricePrediction.exception import customexception
+from src.DimondPricePrediction.logger import logging
 from src.DimondPricePrediction.utils.utils import load_object
 
 
 class PredictPipeline:
     def __init__(self):
         pass
-
+    
     def predict(self,features):
         try:
-           preprocessor_path =  os.path.join("artifacts","preprocessor.pkl")
-           model_path = os.path.join("artifacts","model.pkl")
-           logging.info("Preprocessing file and model file collected")
-
-           preprocessor = load_object(preprocessor_path)
-           model = load_object(model_path)
-           logging.info("object loaded")
-
-           scaled_data = preprocessor.transform(features)
-           logging.info("data is scaled")
-
-           pred = model.predict(scaled_data)
-           logging.info("Prediction process done")
-
-           return pred
-
-
-
-
+            preprocessor_path=os.path.join("artifacts","preprocessor.pkl")
+            model_path=os.path.join("artifacts","model.pkl")
+            
+            preprocessor=load_object(preprocessor_path)
+            model=load_object(model_path)
+            
+            scaled_data=preprocessor.transform(features)
+            
+            pred=model.predict(scaled_data)
+            
+            return pred
+            
+            
+        
         except Exception as e:
             raise customexception(e,sys)
-        
-
+    
+    
+    
 class CustomData:
     def __init__(self,
                  carat:float,
@@ -56,8 +52,8 @@ class CustomData:
         self.cut = cut
         self.color = color
         self.clarity = clarity
-
-
+            
+                
     def get_data_as_dataframe(self):
             try:
                 custom_data_input_dict = {
