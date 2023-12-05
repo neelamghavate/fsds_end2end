@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/fsds_end2end/mlruns/0/be3e024b9b1f44809788a8c062483a90/artifacts
+end_time: 1701803698090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be3e024b9b1f44809788a8c062483a90
+run_name: resilient-cow-826
+run_uuid: be3e024b9b1f44809788a8c062483a90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701803686452
+status: 3
+tags: []
+user_id: Admin

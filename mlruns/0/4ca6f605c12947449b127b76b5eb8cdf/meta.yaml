@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/fsds_end2end/mlruns/0/4ca6f605c12947449b127b76b5eb8cdf/artifacts
+end_time: 1701802469130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ca6f605c12947449b127b76b5eb8cdf
+run_name: gifted-boar-262
+run_uuid: 4ca6f605c12947449b127b76b5eb8cdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701802457196
+status: 3
+tags: []
+user_id: Admin

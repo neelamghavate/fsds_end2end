@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/fsds_end2end/mlruns/0/d8d243731f0e4dbf9798a13a389d6645/artifacts
+end_time: 1701802629072
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8d243731f0e4dbf9798a13a389d6645
+run_name: incongruous-kit-318
+run_uuid: d8d243731f0e4dbf9798a13a389d6645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701802617576
+status: 3
+tags: []
+user_id: Admin

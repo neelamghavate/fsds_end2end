@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/fsds_end2end/mlruns/0/d1c710acde384c60b23fd3de8f7c2a7f/artifacts
+end_time: 1701801022706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1c710acde384c60b23fd3de8f7c2a7f
+run_name: bemused-loon-38
+run_uuid: d1c710acde384c60b23fd3de8f7c2a7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701801022471
+status: 4
+tags: []
+user_id: Admin

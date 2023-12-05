@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/fsds_end2end/mlruns/0/61be826dda154254850c725b124cc011/artifacts
+end_time: 1701802822495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61be826dda154254850c725b124cc011
+run_name: gentle-tern-480
+run_uuid: 61be826dda154254850c725b124cc011
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701802810840
+status: 3
+tags: []
+user_id: Admin

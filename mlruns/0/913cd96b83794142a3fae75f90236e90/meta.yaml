@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/fsds_end2end/mlruns/0/913cd96b83794142a3fae75f90236e90/artifacts
+end_time: 1701802757115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 913cd96b83794142a3fae75f90236e90
+run_name: sneaky-rat-623
+run_uuid: 913cd96b83794142a3fae75f90236e90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701802745607
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/fsds_end2end/mlruns/0/208c74a1d4a5422ca608e2239abb890b/artifacts
+end_time: 1701802550451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 208c74a1d4a5422ca608e2239abb890b
+run_name: illustrious-fox-39
+run_uuid: 208c74a1d4a5422ca608e2239abb890b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701802538975
+status: 3
+tags: []
+user_id: Admin
